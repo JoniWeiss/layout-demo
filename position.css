@@ -1,0 +1,22 @@
+body {
+  padding: 10%;
+  margin: 0;
+}
+
+.grandparent {
+  padding: 10%;
+  background: mediumblue;
+  border: 1px solid darkslategrey;
+}
+
+.parent {
+  background-color: #fff;
+  border: 1px solid red;
+}
+
+.child {
+  border: 1px solid khaki;
+  color: #fff;
+  background-color: #483D88;
+  font-variant: small-caps;
+}
